@@ -580,6 +580,9 @@ h4 {
   .room-card > div {
     padding: 15px;
   }
+  .room-list{
+    display: block;
+  }
   .features {
     padding-top: 48px;
   }
