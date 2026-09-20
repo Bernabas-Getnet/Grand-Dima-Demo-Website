@@ -581,7 +581,9 @@ h4 {
     padding: 15px;
   }
   .room-list{
-    display: block;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
   }
   .features {
     padding-top: 48px;
