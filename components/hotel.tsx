@@ -102,7 +102,7 @@ export function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <span>© 2025 Grand Dima Hotel. All rights reserved.</span>
+        <span>© 2026 Grand Dima Hotel. All rights reserved.</span>
         <span>Concept website — prepared for presentation purposes.</span>
       </div>
     </footer>
